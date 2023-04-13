@@ -1,10 +1,5 @@
 package mylib.datastructures.nodes;
-/**
- * @authors Dominic Gartner <a href = "mailto:dominic.gartner@ucalgary.ca">dominic.gartner@ucalgary.ca</a>, 
-            Hamd Khan <a href = "mailto:hamd.khan1@ucalgary.ca">hamd.khan1@ucalgary.ca</a>, 
- * @since 1.0
- * @version 1.8
- */
+
 public class DNode {
     private int data;
     private DNode previous;
